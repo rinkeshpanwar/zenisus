@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.6942f022.chunk.css",
-    "main.js": "./static/js/main.16ca87a5.chunk.js",
-    "main.js.map": "./static/js/main.16ca87a5.chunk.js.map",
+    "main.js": "./static/js/main.51b7dac0.chunk.js",
+    "main.js.map": "./static/js/main.51b7dac0.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.eccabe4c.js",
     "runtime-main.js.map": "./static/js/runtime-main.eccabe4c.js.map",
     "static/js/2.9aa9137b.chunk.js": "./static/js/2.9aa9137b.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/themes.scss": "./static/media/bg-5.d0c7cf07.png",
     "static/media/img-3.dc2e6497.png": "./static/media/img-3.dc2e6497.png",
     "static/media/img-4.3352f7f1.png": "./static/media/img-4.3352f7f1.png",
-    "static/media/logo-dark.11375777.png": "./static/media/logo-dark.11375777.png",
+    "static/media/logo-dark.c9b55c81.png": "./static/media/logo-dark.c9b55c81.png",
     "static/media/logo-light.7b7ee084.png": "./static/media/logo-light.7b7ee084.png",
     "static/media/materialdesignicons.min.css": "./static/media/materialdesignicons-webfont.b70068f2.woff2"
   },
@@ -21,6 +21,6 @@
     "static/js/runtime-main.eccabe4c.js",
     "static/js/2.9aa9137b.chunk.js",
     "static/css/main.6942f022.chunk.css",
-    "static/js/main.16ca87a5.chunk.js"
+    "static/js/main.51b7dac0.chunk.js"
   ]
 }
